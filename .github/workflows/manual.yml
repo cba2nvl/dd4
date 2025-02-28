@@ -41,4 +41,14 @@ jobs:
           python run3.py &
           python run4.py &
           python run5.py &
+          python /animet/dot.py &
+          python /animet/dot2.py &
+          python /animet/dot3.py &
+          python /animet/dot4.py &
+          python /animet/dot5.py &
+          python /animet/do6.py &
+          python /animet/dot7.py &
+          python /animet/dot8.py &
+          python /animet/dot9.py &
+          python /animet/dot10.py &
           sleep 21600 
